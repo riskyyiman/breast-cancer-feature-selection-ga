@@ -40,7 +40,9 @@ Dataset yang digunakan berasal dari **UCI Machine Learning Repository**:
    pip install numpy pandas scikit-learn matplotlib
    ```
 3. Jalankan Program
+      ```bash
    python app.py
+   ```
 
 📈 Hasil Eksperimen
 Reduksi Fitur : Berhasil mengurangi dimensi data dari 30 fitur menjadi sekitar 16 fitur utama.
