@@ -47,5 +47,5 @@ Reduksi Fitur : Berhasil mengurangi dimensi data dari 30 fitur menjadi sekitar 1
 Akurasi : Mengalami peningkatan stabilitas akurasi hingga mencapai ~98% menggunakan 10-Fold Cross Validation.
 Konvergensi : Algoritma mencapai titik optimal secara stabil pada generasi ke-60 hingga ke-80.
 
-==================================================================================================================================================
+
 Kontributor: Risky Iman Lael Prasetio
