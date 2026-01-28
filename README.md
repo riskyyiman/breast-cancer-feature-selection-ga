@@ -50,4 +50,4 @@ Akurasi : Mengalami peningkatan stabilitas akurasi hingga mencapai ~98% mengguna
 Konvergensi : Algoritma mencapai titik optimal secara stabil pada generasi ke-60 hingga ke-80.
 
 
-Kontributor: Risky Iman Lael Prasetio
+Kontributor: Risky Iman Lael Prasetio.
